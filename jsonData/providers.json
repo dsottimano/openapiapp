@@ -1,0 +1,8 @@
+[
+    { "header": "SEO" },
+    { "name": "Semrush", "group": "SEO" },
+    { "name": "Dataforseo", "group": "SEO" },
+    { "divider": true },
+    { "header": "Misc" },
+    { "name": "Wikipedia", "group": "Misc" }
+  ]
