@@ -1,0 +1,940 @@
+{
+    "text": {
+      "url": "https://api.dataforseo.com/v3/dataforseo_labs/keyword_suggestions/live",
+      "name": "Keyword Suggestions",
+      "exampleResponse": [
+        {
+          "items": [
+            {
+              "keyword": "find my phone:",
+              "location_code": 2840,
+              "language_code": "en",
+              "keyword_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "competition": 0.13470600663730997,
+                "cpc": 1.540529,
+                "search_volume": 823000,
+                "categories": [
+                  10007,
+                  10019,
+                  10108,
+                  10167,
+                  10168,
+                  10756,
+                  10878,
+                  10885,
+                  11495,
+                  12161,
+                  13378,
+                  13381,
+                  13418,
+                  13449
+                ],
+                "monthly_searches": [
+                  {
+                    "year": 2020,
+                    "month": 10,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 9,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 8,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 7,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 6,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 5,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 4,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 3,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 2,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 1,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 12,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 11,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 10,
+                    "search_volume": 823000
+                  }
+                ]
+              },
+              "keyword_properties": null,
+              "impressions_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "bid": 999,
+                "match_type": "exact",
+                "ad_position_min": 1.14,
+                "ad_position_max": 1,
+                "ad_position_average": 1.07,
+                "cpc_min": 202.05,
+                "cpc_max": 246.95,
+                "cpc_average": 224.5,
+                "daily_impressions_min": 2771.74,
+                "daily_impressions_max": 3387.68,
+                "daily_impressions_average": 3079.71,
+                "daily_clicks_min": 130.3,
+                "daily_clicks_max": 159.25,
+                "daily_clicks_average": 144.78,
+                "daily_cost_min": 29251.84,
+                "daily_cost_max": 35752.26,
+                "daily_cost_average": 32502.05
+              },
+              "bing_keyword_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "search_volume": 64360,
+                "monthly_searches": [
+                  {
+                    "year": 2020,
+                    "month": 9,
+                    "search_volume": 61520
+                  },
+                  {
+                    "year": 2020,
+                    "month": 8,
+                    "search_volume": 62810
+                  },
+                  {
+                    "year": 2020,
+                    "month": 7,
+                    "search_volume": 70030
+                  },
+                  {
+                    "year": 2020,
+                    "month": 6,
+                    "search_volume": 71430
+                  },
+                  {
+                    "year": 2020,
+                    "month": 5,
+                    "search_volume": 87660
+                  },
+                  {
+                    "year": 2020,
+                    "month": 4,
+                    "search_volume": 65340
+                  },
+                  {
+                    "year": 2020,
+                    "month": 3,
+                    "search_volume": 70560
+                  },
+                  {
+                    "year": 2020,
+                    "month": 2,
+                    "search_volume": 65220
+                  },
+                  {
+                    "year": 2020,
+                    "month": 1,
+                    "search_volume": 65740
+                  },
+                  {
+                    "year": 2019,
+                    "month": 12,
+                    "search_volume": 59590
+                  },
+                  {
+                    "year": 2019,
+                    "month": 11,
+                    "search_volume": 54160
+                  },
+                  {
+                    "year": 2019,
+                    "month": 10,
+                    "search_volume": 52970
+                  },
+                  {
+                    "year": 2019,
+                    "month": 9,
+                    "search_volume": 49700
+                  }
+                ]
+              },
+              "serp_info": {
+                "check_url": "https://www.google.com/search?q=find%20my%20phone&num=100&hl=en&gl=US&gws_rd=cr&ie=UTF-8&oe=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                "serp_item_types": [
+                  "organic",
+                  "people_also_ask",
+                  "video",
+                  "images",
+                  "related_searches",
+                  "multi_carousel"
+                ],
+                "se_results_count": 14920000000,
+                "last_updated_time": "2021-03-14 12:34:40 +00:00"
+              }
+            },
+            {
+              "keyword": "find my phone",
+              "location_code": 2840,
+              "language_code": "en",
+              "keyword_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "competition": 0.13470600663730997,
+                "cpc": 1.540529,
+                "search_volume": 823000,
+                "categories": [
+                  10007,
+                  10019,
+                  10108,
+                  10167,
+                  10168,
+                  10756,
+                  10878,
+                  10885,
+                  11495,
+                  12161,
+                  13378,
+                  13381,
+                  13418,
+                  13449
+                ],
+                "monthly_searches": [
+                  {
+                    "year": 2020,
+                    "month": 10,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 9,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 8,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 7,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 6,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 5,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 4,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 3,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 2,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 1,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 12,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 11,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 10,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 9,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 8,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 7,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 6,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 5,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 4,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 3,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 2,
+                    "search_volume": 550000
+                  }
+                ]
+              },
+              "keyword_properties": null,
+              "impressions_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "bid": 999,
+                "match_type": "exact",
+                "ad_position_min": 1.14,
+                "ad_position_max": 1,
+                "ad_position_average": 1.07,
+                "cpc_min": 229.46,
+                "cpc_max": 280.45,
+                "cpc_average": 254.95,
+                "daily_impressions_min": 3251.31,
+                "daily_impressions_max": 3973.82,
+                "daily_impressions_average": 3612.56,
+                "daily_clicks_min": 126.08,
+                "daily_clicks_max": 154.1,
+                "daily_clicks_average": 140.09,
+                "daily_cost_min": 32143.84,
+                "daily_cost_max": 39286.92,
+                "daily_cost_average": 35715.38
+              },
+              "bing_keyword_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "search_volume": 64360,
+                "monthly_searches": [
+                  {
+                    "year": 2020,
+                    "month": 9,
+                    "search_volume": 61520
+                  },
+                  {
+                    "year": 2020,
+                    "month": 8,
+                    "search_volume": 62810
+                  },
+                  {
+                    "year": 2020,
+                    "month": 7,
+                    "search_volume": 70030
+                  },
+                  {
+                    "year": 2020,
+                    "month": 6,
+                    "search_volume": 71430
+                  },
+                  {
+                    "year": 2020,
+                    "month": 5,
+                    "search_volume": 87660
+                  },
+                  {
+                    "year": 2020,
+                    "month": 4,
+                    "search_volume": 65340
+                  },
+                  {
+                    "year": 2020,
+                    "month": 3,
+                    "search_volume": 70560
+                  },
+                  {
+                    "year": 2020,
+                    "month": 2,
+                    "search_volume": 65220
+                  },
+                  {
+                    "year": 2020,
+                    "month": 1,
+                    "search_volume": 65740
+                  },
+                  {
+                    "year": 2019,
+                    "month": 12,
+                    "search_volume": 59590
+                  },
+                  {
+                    "year": 2019,
+                    "month": 11,
+                    "search_volume": 54160
+                  },
+                  {
+                    "year": 2019,
+                    "month": 10,
+                    "search_volume": 52970
+                  },
+                  {
+                    "year": 2019,
+                    "month": 9,
+                    "search_volume": 49700
+                  }
+                ]
+              },
+              "serp_info": {
+                "check_url": "https://www.google.com/search?q=find%20my%20phone&num=100&hl=en&gl=US&gws_rd=cr&ie=UTF-8&oe=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                "serp_item_types": [
+                  "organic",
+                  "people_also_ask",
+                  "video",
+                  "images",
+                  "related_searches",
+                  "multi_carousel"
+                ],
+                "se_results_count": 14920000000,
+                "last_updated_time": "2021-03-14 12:34:40 +00:00"
+              }
+            }
+          ]
+        }
+      ],
+      "description": "full-text search for terms that match the specified seed keyword with additional words included before, after, or within the seed key phrase.",
+      "paramFields": [
+        {
+          "type": "text",
+          "name": "keyword",
+          "required": "required",
+          "placeholder": "Enter your keyword",
+          "defaultValue": "test",
+          "tip": "The seed keyword to match",
+          "batchable": true
+        },
+        {
+          "type": "text",
+          "name": "test kw",
+          "required": "required",
+          "placeholder": "Enter your keyword",
+          "defaultValue": "test",
+          "tip": "The seed keyword to match",
+          "batchable": true
+        }
+      ]
+    },
+    "nextText": {
+      "url": "https://api.dataforseo.com/v3/dataforseo_labs/keyword_suggestions/live",
+      "name": "Keyword Suggestions",
+      "exampleResponse": [
+        {
+          "items": [
+            {
+              "keyword": "find my phone:",
+              "location_code": 2840,
+              "language_code": "en",
+              "keyword_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "competition": 0.13470600663730997,
+                "cpc": 1.540529,
+                "search_volume": 823000,
+                "categories": [
+                  10007,
+                  10019,
+                  10108,
+                  10167,
+                  10168,
+                  10756,
+                  10878,
+                  10885,
+                  11495,
+                  12161,
+                  13378,
+                  13381,
+                  13418,
+                  13449
+                ],
+                "monthly_searches": [
+                  {
+                    "year": 2020,
+                    "month": 10,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 9,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 8,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 7,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 6,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 5,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 4,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 3,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 2,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 1,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 12,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 11,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 10,
+                    "search_volume": 823000
+                  }
+                ]
+              },
+              "keyword_properties": null,
+              "impressions_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "bid": 999,
+                "match_type": "exact",
+                "ad_position_min": 1.14,
+                "ad_position_max": 1,
+                "ad_position_average": 1.07,
+                "cpc_min": 202.05,
+                "cpc_max": 246.95,
+                "cpc_average": 224.5,
+                "daily_impressions_min": 2771.74,
+                "daily_impressions_max": 3387.68,
+                "daily_impressions_average": 3079.71,
+                "daily_clicks_min": 130.3,
+                "daily_clicks_max": 159.25,
+                "daily_clicks_average": 144.78,
+                "daily_cost_min": 29251.84,
+                "daily_cost_max": 35752.26,
+                "daily_cost_average": 32502.05
+              },
+              "bing_keyword_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "search_volume": 64360,
+                "monthly_searches": [
+                  {
+                    "year": 2020,
+                    "month": 9,
+                    "search_volume": 61520
+                  },
+                  {
+                    "year": 2020,
+                    "month": 8,
+                    "search_volume": 62810
+                  },
+                  {
+                    "year": 2020,
+                    "month": 7,
+                    "search_volume": 70030
+                  },
+                  {
+                    "year": 2020,
+                    "month": 6,
+                    "search_volume": 71430
+                  },
+                  {
+                    "year": 2020,
+                    "month": 5,
+                    "search_volume": 87660
+                  },
+                  {
+                    "year": 2020,
+                    "month": 4,
+                    "search_volume": 65340
+                  },
+                  {
+                    "year": 2020,
+                    "month": 3,
+                    "search_volume": 70560
+                  },
+                  {
+                    "year": 2020,
+                    "month": 2,
+                    "search_volume": 65220
+                  },
+                  {
+                    "year": 2020,
+                    "month": 1,
+                    "search_volume": 65740
+                  },
+                  {
+                    "year": 2019,
+                    "month": 12,
+                    "search_volume": 59590
+                  },
+                  {
+                    "year": 2019,
+                    "month": 11,
+                    "search_volume": 54160
+                  },
+                  {
+                    "year": 2019,
+                    "month": 10,
+                    "search_volume": 52970
+                  },
+                  {
+                    "year": 2019,
+                    "month": 9,
+                    "search_volume": 49700
+                  }
+                ]
+              },
+              "serp_info": {
+                "check_url": "https://www.google.com/search?q=find%20my%20phone&num=100&hl=en&gl=US&gws_rd=cr&ie=UTF-8&oe=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                "serp_item_types": [
+                  "organic",
+                  "people_also_ask",
+                  "video",
+                  "images",
+                  "related_searches",
+                  "multi_carousel"
+                ],
+                "se_results_count": 14920000000,
+                "last_updated_time": "2021-03-14 12:34:40 +00:00"
+              }
+            },
+            {
+              "keyword": "find my phone",
+              "location_code": 2840,
+              "language_code": "en",
+              "keyword_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "competition": 0.13470600663730997,
+                "cpc": 1.540529,
+                "search_volume": 823000,
+                "categories": [
+                  10007,
+                  10019,
+                  10108,
+                  10167,
+                  10168,
+                  10756,
+                  10878,
+                  10885,
+                  11495,
+                  12161,
+                  13378,
+                  13381,
+                  13418,
+                  13449
+                ],
+                "monthly_searches": [
+                  {
+                    "year": 2020,
+                    "month": 10,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 9,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 8,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 7,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 6,
+                    "search_volume": 1000000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 5,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 4,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 3,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 2,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2020,
+                    "month": 1,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 12,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 11,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 10,
+                    "search_volume": 823000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 9,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 8,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 7,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 6,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 5,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 4,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 3,
+                    "search_volume": 673000
+                  },
+                  {
+                    "year": 2019,
+                    "month": 2,
+                    "search_volume": 550000
+                  }
+                ]
+              },
+              "keyword_properties": null,
+              "impressions_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "bid": 999,
+                "match_type": "exact",
+                "ad_position_min": 1.14,
+                "ad_position_max": 1,
+                "ad_position_average": 1.07,
+                "cpc_min": 229.46,
+                "cpc_max": 280.45,
+                "cpc_average": 254.95,
+                "daily_impressions_min": 3251.31,
+                "daily_impressions_max": 3973.82,
+                "daily_impressions_average": 3612.56,
+                "daily_clicks_min": 126.08,
+                "daily_clicks_max": 154.1,
+                "daily_clicks_average": 140.09,
+                "daily_cost_min": 32143.84,
+                "daily_cost_max": 39286.92,
+                "daily_cost_average": 35715.38
+              },
+              "bing_keyword_info": {
+                "last_updated_time": "2021-01-18 14:12:40 +00:00",
+                "search_volume": 64360,
+                "monthly_searches": [
+                  {
+                    "year": 2020,
+                    "month": 9,
+                    "search_volume": 61520
+                  },
+                  {
+                    "year": 2020,
+                    "month": 8,
+                    "search_volume": 62810
+                  },
+                  {
+                    "year": 2020,
+                    "month": 7,
+                    "search_volume": 70030
+                  },
+                  {
+                    "year": 2020,
+                    "month": 6,
+                    "search_volume": 71430
+                  },
+                  {
+                    "year": 2020,
+                    "month": 5,
+                    "search_volume": 87660
+                  },
+                  {
+                    "year": 2020,
+                    "month": 4,
+                    "search_volume": 65340
+                  },
+                  {
+                    "year": 2020,
+                    "month": 3,
+                    "search_volume": 70560
+                  },
+                  {
+                    "year": 2020,
+                    "month": 2,
+                    "search_volume": 65220
+                  },
+                  {
+                    "year": 2020,
+                    "month": 1,
+                    "search_volume": 65740
+                  },
+                  {
+                    "year": 2019,
+                    "month": 12,
+                    "search_volume": 59590
+                  },
+                  {
+                    "year": 2019,
+                    "month": 11,
+                    "search_volume": 54160
+                  },
+                  {
+                    "year": 2019,
+                    "month": 10,
+                    "search_volume": 52970
+                  },
+                  {
+                    "year": 2019,
+                    "month": 9,
+                    "search_volume": 49700
+                  }
+                ]
+              },
+              "serp_info": {
+                "check_url": "https://www.google.com/search?q=find%20my%20phone&num=100&hl=en&gl=US&gws_rd=cr&ie=UTF-8&oe=UTF-8&uule=w+CAIQIFISCQs2MuSEtepUEUK33kOSuTsc",
+                "serp_item_types": [
+                  "organic",
+                  "people_also_ask",
+                  "video",
+                  "images",
+                  "related_searches",
+                  "multi_carousel"
+                ],
+                "se_results_count": 14920000000,
+                "last_updated_time": "2021-03-14 12:34:40 +00:00"
+              }
+            }
+          ]
+        }
+      ],
+      "description": "full-text search for terms that match the specified seed keyword with additional words included before, after, or within the seed key phrase.",
+      "paramFields": [
+        {
+          "type": "text",
+          "name": "keyword",
+          "required": "required",
+          "placeholder": "Enter your keyword",
+          "defaultValue": "test",
+          "tip": "The seed keyword to match",
+          "batchable": true
+        },
+        {
+          "type": "text",
+          "name": "test kw",
+          "required": "required",
+          "placeholder": "Enter your keyword",
+          "defaultValue": "test",
+          "tip": "The seed keyword to match",
+          "batchable": true
+        }
+      ]
+    }
+  }
